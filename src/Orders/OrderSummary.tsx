@@ -1,5 +1,4 @@
 import { formatPrice } from "./helpers";
-import OrderLocation from './OrderLocation';
 
 type Props = {
     amount: number;
